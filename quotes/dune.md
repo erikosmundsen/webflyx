@@ -4,3 +4,4 @@
 - "When Is A Gift Not A Gift?"
 - "The spice must flow." >>quotes/dune.md
 echo - The spice must flow.
+- "Fear is the mind-killer."
